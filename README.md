@@ -21,4 +21,4 @@ C#
 https://docs.google.com/document/d/1D9oekBviNihxX9jrm6vXDv7hGax6EgriUrhdg3jkbQA/edit
 
 
-ソースコードはGGJ2023/Assets/Scriptsに入っています
+全体のソースコードは[こちら](/GGJ2023/Assets/Scripts)
