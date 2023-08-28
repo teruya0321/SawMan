@@ -17,8 +17,9 @@ C#
 5人(3Dモデラー1人、アニメーター1人、UIデザイナー1人、プログラマー1人)
 ### 制作期間 
 二日(企画、開発、発表まで含めて)
-### アピールポイント 
+### アピールポイント(ドキュメントへ飛びます)
 https://docs.google.com/document/d/1D9oekBviNihxX9jrm6vXDv7hGax6EgriUrhdg3jkbQA/edit
 
 
-全体のソースコードは[こちら](/GGJ2023/Assets/Scripts)
+
+全体のソースコードは[**ここから**](/GGJ2023/Assets/Scripts)
