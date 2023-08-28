@@ -11,7 +11,8 @@ Unity
 ### 使用言語
 C#
 ### 担当箇所 
-ゲームのメイン動作のプログラミング(NokogiriMan.cs,Timer.cs,Wood.cs)
+ゲームのメイン動作のプログラミング([NokogiriMan.cs](/GGJ2023/Assets/Scripts/NokogiriMan.cs),
+[Timer.cs](/GGJ2023/Assets/Scripts/Timer.cs),[Wood.cs](/GGJ2023/Assets/Scripts/Wood.cs))
 ### 制作人数
 5人(3Dモデラー1人、アニメーター1人、UIデザイナー1人、プログラマー1人)
 ### 制作期間 
